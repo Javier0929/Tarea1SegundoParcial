@@ -1,0 +1,106 @@
+{
+    "DatosEstudiantes":[
+
+{
+    "Apellido":"Arauz",
+    "Nombre":"Victor",
+    "Semestre":"Quinto",
+    "Paralelo":"D",
+    "Direcion":"Manta",
+    "Telefono":"0987265311",
+    "Email":"arauzv12@gmail.com"
+},
+{
+    "Apellido":"Barreto",
+    "Nombre":"Luis",
+    "Semestre":"Tercero",
+    "Paralelo":"A",
+    "Direcion":"Jaramijo",
+    "Telefono":"0998736527",
+    "Email":"luisbarreto029@gmail.com"
+
+},
+{
+    "Apellido":"Vinces",
+    "Nombre":"Antonella",
+    "Semestre":"Cuarto",
+    "Paralelo":"B",
+    "Direcion":"Manta",
+    "Telefono":"0983726351",
+    "Email":"antonella123@gmail.com"
+},
+{
+    "Apellido":"Cedeño",
+    "Nombre":"Daniela",
+    "Semestre":"Tercero",
+    "Paralelo":"C",
+    "Direcion":"Manta",
+    "Telefono":"0976352817",
+    "Email":"daniela0921@gmail.com"
+
+},
+{
+    "Apellido":"Gonzales",
+    "Nombre":"Kevin",
+    "Semestre":"Quinto",
+    "Paralelo":"A",
+    "Direcion":"Portoviejo",
+    "Telefono":"0978372615",
+    "Email":"gonzales.kevin@gmail.com"
+},
+{
+
+    "Apellido":"Moreira",
+    "Nombre":"Mario",
+    "Semestre":"Tercero",
+    "Paralelo":"C",
+    "Direcion":"Jaramijo",
+    "Telefono":"0989362517",
+    "Email":"moreiraMario.123@gmail.com"
+},
+{
+    "Apellido":"Quiñonez",
+    "Nombre":"Ariana",
+    "Semestre":"Primer",
+    "Paralelo":"A",
+    "Direcion":"Manta",
+    "Telefono":"0978362719",
+    "Email":"QuiñonezAri@gmail.com"
+},
+{
+    "Apellido":"Avila",
+    "Nombre":"David",
+    "Semestre":"Cuarto",
+    "Paralelo":"B",
+    "Direcion":"Portoviejo",
+    "Telefono":"0967382716",
+    "Email":"aviladavid784@gmail.com"
+},
+{
+    "Apellido":"Macias",
+    "Nombre":"Ximena",
+    "Semestre":"Quinto",
+    "Paralelo":"C",
+    "Direcion":"Manta",
+    "Telefono":"0963728192",
+    "Email":"maciasximena167@gmail.com"
+},
+
+ {
+    "Apellido":"Mendoza",
+    "Nombre":"Ana",
+    "Semestre":"Primer",
+    "Paralelo":"B",
+    "Direcion":"Montecristi",
+    "Telefono":"0973829361",
+    "Email":"mendozana0918@gmail.com"
+  }
+
+]
+
+}
+
+  
+  
+  
+  

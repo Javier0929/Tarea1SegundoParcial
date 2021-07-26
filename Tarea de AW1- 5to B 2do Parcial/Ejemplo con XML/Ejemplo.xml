@@ -1,0 +1,102 @@
+<Usuariosdatos>
+<!-- PRIMER USUARIO -->
+  <estudiante id="1">
+    <Apellido>Arauz</Apellido>
+    <Nombre>Victor</Nombre>
+    <Semestre>Quinto</Semestre>
+    <Paralelo>D</Paralelo>
+    <Direcion>Manta</Direcion>
+    <Telefono>0987265311</Telefono>
+    <Email>arauzv12@gmail.com</Email>
+  </estudiante>
+  <!-- SEGUNDO USUARIO -->
+  <estudiante id="2">
+    <Apellido>Barreto</Apellido>
+    <Nombre>Luis</Nombre>
+    <Semestre>Tercero</Semestre>
+    <Paralelo>A</Paralelo>
+    <Direcion>Jaramijo</Direcion>
+    <Telefono>0998736527</Telefono>
+    <Email>luisbarreto029@gmail.com</Email>
+  </estudiante>
+  <!-- TERCER USUARIO -->
+  <estudiante id="3">
+    <Apellido>Vinces</Apellido>
+    <Nombre>Antonella</Nombre>
+    <Semestre>Cuarto<Semestre>
+    <Paralelo>B</Paralelo>
+    <Direcion>Manta</Direcion>
+    <Telefono>0983726351</Telefono>
+    <Email>antonella123@gmail.com</Email>
+  </estudiante>
+  <!-- CUARTO USUARIO -->
+  <estudiante id="4">
+    <Apellido>Cedeño</Apellido>
+    <Nombre>Daniela</Nombre>
+    <Semestre>Tercero</Semestre>
+    <Paralelo>C</Paralelo>
+    <Direcion>Manta</Direcion>
+    <Telefono>0976352817</Telefono>
+    <Email>daniela0921@gmail.com</Email>
+  </estudiante>
+  <!-- QUINTO USUARIO -->
+  <estudiante id="5">
+    <Apellido>Gonzales</Apellido>
+    <Nombre>Kevin</Nombre>
+    <Semestre>Quinto</Semestre>
+    <Paralelo>A</Paralelo>
+    <Direcion>Portoviejo</Direcion>
+    <Telefono>0978372615</Telefono>
+    <Email>gonzales.kevin@gmail.com</Email>
+  </estudiante>
+  <!-- SEXTO USUARIO -->
+  <estudiante id="6">
+    <Apellido>Moreira</Apellido>
+    <Nombre>Mario</Nombre>
+    <Semestre>Tercero</Semestre>
+    <Paralelo>C</Paralelo>
+    <Direcion>Jaramijo</Direcion>
+    <Telefono>0989362517</Telefono>
+    <Email>moreiraMario.123@gmail.com</Email>
+  </estudiante>
+  <!-- SEPTIMO USUARIO -->
+  <estudiante id="7">
+    <Apellido>Quiñonez</Apellido>
+    <Nombre>Ariana</Nombre>
+    <Semestre>Primer</Semestre>
+    <Paralelo>A</Paralelo>
+    <Direcion>Manta</Direcion>
+    <Telefono>0978362719</Telefono>
+    <Email>QuiñonezAri@gmail.com</Email>
+  </estudiante>
+  <!-- OCTAVO USUARIO -->
+  <estudiante id="8">
+    <Apellido>Avila</Apellido>
+    <Nombre>David</Nombre>
+    <Semestre>Cuarto</Semestre>
+    <Paralelo>B</Paralelo>
+    <Direcion>Portoviejo</Direcion>
+    <Telefono>0967382716</Telefono>
+    <Email>aviladavid784@gmail.com</Email>
+  </estudiante>
+  <!-- NOVENO USUARIO -->
+  <estudiante id="9">
+    <Apellido>Macias</Apellido>
+    <Nombre>Ximena</Nombre>
+    <Semestre>Quinto</Semestre>
+    <Paralelo>C</Paralelo>
+    <Direcion>Manta</Direcion>
+    <Telefono>0963728192</Telefono>
+    <Email>maciasximena167@gmail.com</Email>
+  </estudiante>
+  <!-- DECIMO USUARIO -->
+  <estudiante id="10">
+    <Apellido>Mendoza</Apellido>
+    <Nombre>Ana</Nombre>
+    <Semestre>Primer</Semestre>
+    <Paralelo>B</Paralelo>
+    <Direcion>Montecristi</Direcion>
+    <Telefono>0973829361</Telefono>
+    <Email>mendozana0918@gmail.com</Email>
+  </estudiante>
+</Usuariosdatos>

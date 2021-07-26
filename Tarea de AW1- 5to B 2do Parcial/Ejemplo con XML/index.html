@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>XML</title>
+  </head>
+  <body>
+    <h1>EJERCICIO CON XML</h1>
+    <div>
+      <hr />
+      <h2>SELECCIONAR SOLO UN ESTUDIANTE</h2>
+      <div>
+        <select name="estudiante" id="estudiante" class="select">
+          <option value="--SELECCIONE UNA OPCION--">--SELECCIONE UNA OPCION--</option>
+          <option value="Victor Arauz">Victor Arauz</option>
+          <option value="Luis Barreto">Luis Barreto</option>
+          <option value="Antonella Vince">Antonella Vince</option>
+          <option value="Daniela Cedeño">Daniela Cedeño</option>
+          <option value="kevin Gonzales">Kevin Gonzales</option>
+          <option value="Mario Moreira">Mario Moreira</option>
+          <option value="Ariana Quiñonez">Ariana Quiñonez</option>
+          <option value="David Avila">David Avila</option>
+          <option value="Ximena Macias">Ximena Macias</option>
+          <option value="Ana Mendoza">Ana Mendoza</option>
+        </select>
+        <button onclick="conectarXMLMostrar()" class="btn">BUSCAR</button>
+      </div>
+    </div>
+    <div>
+      <center><h2>INFORMACION DEL ESTUDIANTE</h2></center>
+    </div>
+    <table id="data"></table>
+    <script src="./index.js"></script>
+  </body>
+</html>
